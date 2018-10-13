@@ -1,0 +1,17 @@
+C:\Users\stout14\Desktop\N-tier-master\Demo_FileIO_NTier.Solution\bin\Debug\Data\Data.csv
+C:\Users\stout14\Desktop\N-tier-master\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.exe.config
+C:\Users\stout14\Desktop\N-tier-master\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.exe
+C:\Users\stout14\Desktop\N-tier-master\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.pdb
+C:\Users\stout14\Desktop\N-tier-master\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.Solution.csprojResolveAssemblyReference.cache
+C:\Users\stout14\Desktop\N-tier-master\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.Solution.csproj.CoreCompileInputs.cache
+C:\Users\stout14\Desktop\N-tier-master\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.exe
+C:\Users\stout14\Desktop\N-tier-master\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.pdb
+D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\bin\Debug\Data\Data.xml
+D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\bin\Debug\Data\Data.csv
+D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.exe.config
+D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.exe
+D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.pdb
+D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.Solution.csprojAssemblyReference.cache
+D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.Solution.csproj.CoreCompileInputs.cache
+D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.exe
+D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.pdb
