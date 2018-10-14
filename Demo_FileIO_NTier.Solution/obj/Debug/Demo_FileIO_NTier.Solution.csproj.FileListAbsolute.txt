@@ -15,3 +15,14 @@ D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_N
 D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.Solution.csproj.CoreCompileInputs.cache
 D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.exe
 D:\CIT255\N-Tier-IO-ClassWork\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.pdb
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.exe.config
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.Solution.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\bin\Debug\Data\Data.xml
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\bin\Debug\Data\Data.csv
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\bin\Debug\Data\Data.json
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.exe
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\bin\Debug\Demo_FileIO_NTier.pdb
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.exe
+C:\Users\Kevin\Documents\CIT255\N-Tier\Demo_FileIO_NTier.Solution\obj\Debug\Demo_FileIO_NTier.pdb

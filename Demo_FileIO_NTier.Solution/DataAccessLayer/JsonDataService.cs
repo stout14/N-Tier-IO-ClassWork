@@ -1,18 +1,23 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.XML.Serialization;
+using System.Xml.Serialization;
 using Demo_FileIO_NTier.Models;
 using Newtonsoft;
 using Demo_FileIO_NTier.DataAccessLayer;
 using Newtonsoft.Json;
 
 namespace Demo_FileIO_NTier.DataAccessLayer
+
 {
     public class JsonDataService : IDataService
     {
         private string _dataFilePath;
 
+        /// <summary>
+        /// read the json file and load a list of character objects
+        /// </summary>
+        /// <returns>list of characters</returns>
         public IEnumerable<Character> ReadAll()
         {
             List<Character> characters = new List<Character>();
@@ -23,12 +28,13 @@ namespace Demo_FileIO_NTier.DataAccessLayer
                 {
                     string jsonString = sr.ReadToEnd();
 
-                    characters characterList = JsonConvert.DeserializeObject<RootObject>(jsonString).Characters;
+                    Characters characterList = JsonConvert.DeserializeObject<RootObject>(jsonString).Characters;
 
                     characters = characterList.Character;
                 }
+
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 throw;
             }
@@ -36,6 +42,10 @@ namespace Demo_FileIO_NTier.DataAccessLayer
             return characters;
         }
 
+        /// <summary>
+        /// write the current list of characters to the json data file
+        /// </summary>
+        /// <param name="characters">list of characters</param>
         public void WriteAll(IEnumerable<Character> characters)
         {
             RootObject rootObject = new RootObject();
@@ -52,8 +62,9 @@ namespace Demo_FileIO_NTier.DataAccessLayer
                     writer.WriteLine(jsonString);
                 }
             }
-            catch(Exception e)
+            catch (Exception)
             {
+
                 throw;
             }
         }

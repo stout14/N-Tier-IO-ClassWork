@@ -40,7 +40,6 @@ namespace Demo_FileIO_NTier.PresentationLayer
 
             if (success)
             {
-                
                 DisplayCharacterTable(characters);
             }
             else
